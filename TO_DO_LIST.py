@@ -5,7 +5,6 @@ def task_added():
     user_input = input("Enter your task : ")
     while len(user_input.replace(" ","")) == 0:
         user_input = input("please Enter a valid task : ") 
-        
     task_information = {"Description":user_input, "Status":" ⛔"}
     if task_information in tasks:
         print("this task already exists")
