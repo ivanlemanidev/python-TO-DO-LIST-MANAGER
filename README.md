@@ -1,4 +1,4 @@
-#Task Management System (To-Do List)
+# Task Management System (To-Do List)
 
 A simple command-line task management application built with Python.
 
@@ -12,13 +12,13 @@ A simple command-line task management application built with Python.
 - Save tasks to a JSON file
 - Automatically load saved tasks when the program starts
 
-#Technologies Used
+# Technologies Used
 
 - Python 3
 - JSON
 - os module
 
-#Project Structure
+# Project Structure
 
 project/
 │
@@ -26,7 +26,7 @@ project/
 ├── tasks.json
 └── README.md
 
-#How to Run
+# How to Run
 
 1. Clone the repository:
 
@@ -40,7 +40,7 @@ cd project-folder
 
 python main.py
 
-#Example
+# Example
 
 TASK-MANAGEMENT-SYSTEM -- TO-DO-LIST --
 
@@ -52,7 +52,7 @@ TASK-MANAGEMENT-SYSTEM -- TO-DO-LIST --
 6. Edit a task
 7. Exit
 
-#Learning Objectives
+# Learning Objectives
 
 This project was created to practice:
 
@@ -64,7 +64,7 @@ This project was created to practice:
 - User input validation
 - Data persistence
 
-#Future Improvements
+# Future Improvements
 
 - Task priorities
 - Due dates
@@ -72,7 +72,7 @@ This project was created to practice:
 - Search functionality
 - Statistics dashboard
 
-#Author
+# Author
 
 Pierre Blaireau
 
