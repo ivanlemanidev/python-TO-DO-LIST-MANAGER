@@ -2,7 +2,7 @@
 
 A simple command-line task management application built with Python.
 
-#Features
+# Features
 
 - Add a new task
 - Display all tasks
